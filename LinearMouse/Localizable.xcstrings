@@ -32585,7 +32585,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ein Leerzeichen nach links bewegen"
+            "value" : "Einen Space nach links bewegen"
           }
         },
         "el" : {
@@ -32793,7 +32793,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ein Leerzeichen nach rechts bewegen"
+            "value" : "Einen Space nach rechts bewegen"
           }
         },
         "el" : {
